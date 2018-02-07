@@ -1,3 +1,7 @@
 file store in github
 
 file update to git repository
+
+file update to git stage
+
+file update to work directory

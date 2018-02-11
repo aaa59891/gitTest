@@ -14,4 +14,7 @@ add in master -- 1
 
 update in master branch
 
-conflict from master
+rebase test
+
+
+conflict from branch

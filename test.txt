@@ -13,3 +13,5 @@ file update to work directory
 add in master -- 1
 
 update in master branch
+
+conflict from master

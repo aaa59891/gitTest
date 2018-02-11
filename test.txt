@@ -2,8 +2,14 @@ file store in github
 
 file update to git repository
 
+add in branch -- 1
+
 file update to git stage
 
+add in branch -- 2
+
 file update to work directory
+
+add in branch -- 3
 
 update in master branch

@@ -22,4 +22,4 @@ conflict from branch
 update from remote again
 
 
-add from remote
+add from local

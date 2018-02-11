@@ -20,3 +20,6 @@ rebase test
 conflict from branch
 
 update from remote again
+
+
+add from remote

@@ -6,7 +6,7 @@ add in master -- 1
 
 file update to git stage
 
-add in master -- 1
+add in branch -- 2
 
 file update to work directory
 
